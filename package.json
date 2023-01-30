@@ -1,0 +1,18 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "matrix raindorp based on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "matrix",
+    "wallper",
+    "raindrop",
+    "code"
+  ],
+  "author": "Simon Anisimov",
+  "license": "ISC",
+  "type": "module"
+}
